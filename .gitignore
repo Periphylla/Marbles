@@ -3,6 +3,8 @@
 *.ipr
 */target/*
 .gradle
+gradle
+gradle/*
 /local.properties
 .idea
 .idea/*
